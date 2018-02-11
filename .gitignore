@@ -1,0 +1,8 @@
+*.iml
+.gradle
+.idea
+yarn.lock
+.env
+node_modules
+
+
